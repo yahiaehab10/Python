@@ -1,2 +1,4 @@
 /Learn
 /venv
+/__pycache__
+/flaskWebApp
